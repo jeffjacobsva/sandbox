@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+# Tested under gitbash with non-admin user
+#
 # Create a virtual environment in the current directory
 py -m venv moto_env
 
