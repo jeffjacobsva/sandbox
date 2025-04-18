@@ -1,13 +1,8 @@
 #!/bin/bash
 
-# Check if the user is "oithondhagan" and alias python to py
-#doe has is non MS install of python aliased, so use that one
-if [ "$USERNAME" == "vhajithagand" ]; then
-     alias python="py"
-fi
 
 # Create a virtual environment in the current directory
-python -m venv moto_env
+py -m venv moto_env
 
 # Activate the virtual environment
 source moto_env/Scripts/activate
