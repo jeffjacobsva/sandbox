@@ -1,1 +1,2 @@
 # install notes for SQL Server
+# Note: Disable service when not in use
