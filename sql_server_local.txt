@@ -1,2 +1,5 @@
 # install notes for SQL Server
 # Note: Disable service when not in use
+
+# SQL Server developer edition limits number of connections
+# Causes 20 tests to fail in 834 project (as of 2025/06/09)
