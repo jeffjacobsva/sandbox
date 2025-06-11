@@ -1,5 +1,7 @@
 # install notes for SQL Server
 # Note: Disable service when not in use, set to manual first, then enable to restart
+#       Reenable by setting Disabled -> Manual. Click Apply. Click Enable.
 
 # SQL Server developer edition limits number of connections
 # Causes 20 tests to fail in 834 project (as of 2025/06/09)
+
