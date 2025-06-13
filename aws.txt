@@ -1,2 +1,4 @@
 #AWS notes
-NMEA email account
+NMEA email account (cyberark)
+vpn not req'd
+
