@@ -1,3 +1,5 @@
+# Note: As of 2025/06/27 this is no longer approved, seek to use "LocalDB" sql server installation, see other file.
+
 # install notes for SQL Server
 # Note: Disable service when not in use, set to manual first, then enable to restart
 #       Reenable by setting Disabled -> Manual. Click Apply. Click Enable.
