@@ -5,5 +5,5 @@
 #       Reenable by setting Disabled -> Manual. Click Apply. Click Enable.
 
 # SQL Server developer edition limits number of connections
-# Causes 20 tests to fail in 834 project (as of 2025/06/09)
+# Causes 20 tests to fail in 834 project (as of 2025/06/09) - * Later understood to be embedded reference to old DB hostname (in specific tests)
 
