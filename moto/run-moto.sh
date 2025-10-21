@@ -8,6 +8,8 @@ py -m venv moto_env
 # Activate the virtual environment
 source moto_env/Scripts/activate
 
+python -m pip install --upgrade pip
+
 # Install moto with all extras
 python -m pip install moto[all] flask flask_cors
 
