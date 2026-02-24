@@ -1,4 +1,4 @@
-#AWS notes
+# AWS notes
 NMEA email account (cyberark)
 vpn not req'd
 
