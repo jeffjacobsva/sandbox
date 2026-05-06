@@ -11,7 +11,7 @@ source moto_env/Scripts/activate
 python -m pip install --upgrade pip
 
 # Install moto with all extras
-python -m pip install "moto[all]>=5.0.0,<5.2.0" flask flask_cors
+python -m pip install "moto[all]>=5.0.0,<5.2.0" flask flask_cors
 
 # Set the LOG_LEVEL environment variable for debugging (optional)
 export LOG_LEVEL=DEBUG
